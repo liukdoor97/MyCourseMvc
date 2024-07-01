@@ -20,12 +20,14 @@ namespace MyCourse.Controllers
 
         public IActionResult Index()
         {
-            return Content("Sono Index");
+            // return Content("Sono Index");
+            return View();
         }
 
-        public IActionResult Detail(string id)
+        public IActionResult Detail()
         {
-            return Content($"Sono Content ed ho l'id {id}");
+            // return Content($"Sono Content ed ho l'id {id}");
+            return View();
 
         }
 

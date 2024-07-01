@@ -30,3 +30,5 @@ D:\SER\PROGETTI\Corsi\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.Views.pdb
 D:\SER\PROGETTI\Corsi\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.dll
 D:\SER\PROGETTI\Corsi\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.pdb
 D:\SER\PROGETTI\Corsi\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.csproj.CopyComplete
+D:\SER\PROGETTI\Corsi\MyCourse\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Detail.g.cshtml.cs
+D:\SER\PROGETTI\Corsi\MyCourse\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Index.g.cshtml.cs
